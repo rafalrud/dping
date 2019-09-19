@@ -9,6 +9,8 @@ Simple graphical interpretation of fping command
 ## General info
 This project is simple graphical interpretation of fping command. Dping simply takes one argument (ip address or domain name) and continuosly ping it displaying ! for host reachability or . for host unreachability.
 
+![Printscreen of terminal running dping](./images/dping.png)
+
 ## Technologies
 Project requires:
 * Bash shell in working echo -e
@@ -23,4 +25,6 @@ git clone https://github.com/rafalrud/dping.git
 chmod +x dping.sh
 
 ```
+
+
 
