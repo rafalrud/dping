@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 clear
 echo "Pinging $1"
 echo -e "! - ping alive     \e[1;31m.\e[0m - ping dead\n"
