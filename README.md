@@ -22,7 +22,7 @@ To run this project, install it locally downloading script from githun:
 ```
 
 git clone https://github.com/rafalrud/dping.git
-chmod +x dping.sh
+chmod +x /dping/dping.sh
 
 ```
 
